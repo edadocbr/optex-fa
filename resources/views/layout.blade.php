@@ -178,8 +178,8 @@
         <div class="row align-items-center">
           <div class="menu">
             <a href="{{ route('pages.home') }}" class="logo"
-              ><img class="down" src="assets/images/1.png" alt="" />
-              <img class="main_sticky" src="assets/images/logo.png" alt=""
+              ><img class="down" src="/assets/images/1.png" alt="" />
+              <img class="main_sticky" src="/assets/images/logo.png" alt=""
             /></a>
             <ul class="clearfix">
               <li>
@@ -191,22 +191,22 @@
               <li>
                 <a href="#">Productos</a>
                 <ul>
-                  <li><a href="sensor-imagenes-cvs1.html">Sensor de Imagenes CVS 1</a></li>
-                  <li><a href="sensor-desplazamiento.html">Sensor de Desplazamiento</a></li>
-                  <li><a href="sensor-fotoelectrico.html">Sensor Fotoeléctricos</a></li>
-                  <li><a href="sensor-laser.html">Sensor Láser</a></li>
-                  <li><a href="sensor-fibra.html">Sensor de Fibra</a></li>
-                  <li><a href="comparador-sincronizacion.html">Comparador de Sincronización</a></li>
+                  <li><a href="{{ route('products.imagenes_cvs1') }}">Sensor de Imagenes CVS 1</a></li>
+                  <li><a href="{{ route('products.desplazamiento') }}">Sensor de Desplazamiento</a></li>
+                  <li><a href="{{ route('products.fotoelectrico') }}">Sensor Fotoeléctricos</a></li>
+                  <li><a href="{{ route('products.laser') }}">Sensor Láser</a></li>
+                  <li><a href="{{ route('products.fibra') }}">Sensor de Fibra</a></li>
+                  <li><a href="{{ route('products.comparador_sincronizacion') }}">Comparador de Sincronización</a></li>
                   <li><a href="">Otros Productos</a></li>
                 </ul>
               </li>
               <li>
                 <a href="#">Aplicaciones</a>
                 <ul>
-                  <li><a href="automotriz.html">Automotriz</a></li>
-                  <li><a href="alimentos-y-farmaceutica.html">Alimentos y farmaceuticos</a></li>
-                  <li><a href="electronica-y-semiconductores.html">Electrónica y semiconductores</a></li>
-                  <li><a href="logistica-y-transporte.html">Logística y transporte</a></li>
+                  <li><a href="{{ route('aplications.automotriz') }}">Automotriz</a></li>
+                  <li><a href="{{ route('aplications.alimentos_farmaceuticos') }}">Alimentos y farmaceuticos</a></li>
+                  <li><a href="{{ route('aplications.electronica_semiconductores') }}">Electrónica y semiconductores</a></li>
+                  <li><a href="{{ route('aplications.logistica_transporte') }}">Logística y transporte</a></li>
                   <!-- <li><a href="">Aplicaciones MVS</a></li> -->
                 </ul>
               </li>
@@ -233,22 +233,22 @@
             <li>
               <a href="#">Productos</a>
               <ul>
-                <li><a href="sensor-imagenes-cvs1.html">Sensor de Imagenes CVS 1</a></li>
-                <li><a href="sensor-desplazamiento.html">Sensor de Desplazamiento</a></li>
-                <li><a href="sensor-fotoelectrico.html">Sensor Fotoeléctricos</a></li>
-                <li><a href="sensor-laser.html">Sensor Láser</a></li>
-                <li><a href="sensor-fibra.html">Sensor de Fibra</a></li>
-                <li><a href="comparador-sincronizacion.html">Comparador de Sincronización</a></li>
+                <li><a href="{{ route('products.imagenes_cvs1') }}">Sensor de Imagenes CVS 1</a></li>
+                <li><a href="{{ route('products.desplazamiento') }}">Sensor de Desplazamiento</a></li>
+                <li><a href="{{ route('products.fotoelectrico') }}">Sensor Fotoeléctricos</a></li>
+                <li><a href="{{ route('products.laser') }}">Sensor Láser</a></li>
+                <li><a href="{{ route('products.fibra') }}">Sensor de Fibra</a></li>
+                <li><a href="{{ route('products.comparador_sincronizacion') }}">Comparador de Sincronización</a></li>
                 <li><a href="">Otros Productos</a></li>
               </ul>
             </li>
             <li>
               <a href="#">Aplicaciones</a>
               <ul>
-                <li><a href="automotriz.html">Automotriz</a></li>
-                <li><a href="alimentos-y-farmaceutica.html">Alimentos y farmaceuticos</a></li>
-                <li><a href="electronica-y-semiconductores.html">Electrónica y semiconductores</a></li>
-                <li><a href="logistica-y-transporte.html">Logística y transporte</a></li>
+                <li><a href="{{ route('aplications.automotriz') }}">Automotriz</a></li>
+                <li><a href="{{ route('aplications.alimentos_farmaceuticos') }}">Alimentos y farmaceuticos</a></li>
+                <li><a href="{{ route('aplications.electronica_semiconductores') }}">Electrónica y semiconductores</a></li>
+                <li><a href="{{ route('aplications.logistica_transporte') }}">Logística y transporte</a></li>
                 <!-- <li><a href="">Aplicaciones MVS</a></li> -->
               </ul>
             </li>
@@ -271,7 +271,7 @@
     <!--==================================================-->
     <div
       class="footer-middle pt-95"
-      style="background-image: url(assets/images/call-bg.png)"
+      style="background-image: url(/assets/images/call-bg.png)"
     >
       <div class="container">
         <div class="row">
