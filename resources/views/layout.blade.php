@@ -193,7 +193,7 @@
                 <ul>
                   <li><a href="{{ route('products.imagenes_cvs1') }}">Sensor de Imagenes CVS 1</a></li>
                   <li><a href="{{ route('products.desplazamiento') }}">Sensor de Desplazamiento</a></li>
-                  <li><a href="{{ route('products.fotoelectrico') }}">Sensor Fotoeléctricos</a></li>
+                  <li><a href="{{ route('products.fotoelectrico') }}">Sensor Fotoeléctrico</a></li>
                   <li><a href="{{ route('products.laser') }}">Sensor Láser</a></li>
                   <li><a href="{{ route('products.fibra') }}">Sensor de Fibra</a></li>
                   <li><a href="{{ route('products.comparador_sincronizacion') }}">Comparador de Sincronización</a></li>

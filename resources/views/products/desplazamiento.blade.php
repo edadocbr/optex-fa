@@ -13,7 +13,7 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
               <div class="single_blog mb-30">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_50.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_50.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -35,7 +35,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-30">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w2000.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w2000.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -57,7 +57,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-30">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_30.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_30.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -80,7 +80,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-30">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_250.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_250.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -102,7 +102,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w2000_posicion.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w2000_posicion.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -124,7 +124,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w2000_rollo.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w2000_rollo.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -146,7 +146,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w2000_otros.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w2000_otros.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -167,7 +167,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd3_100.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd3_100.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -189,7 +189,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w2000_oblea.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w2000_oblea.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -209,7 +209,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_85.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_85.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -231,7 +231,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_L25.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_L25.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -253,7 +253,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/shp_100.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/shp_100.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -274,7 +274,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd3_250.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd3_250.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -293,7 +293,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_30.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_30.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -312,7 +312,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_30_tarjetas.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_30_tarjetas.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -331,7 +331,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_30_electronica.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_30_electronica.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -351,7 +351,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_85_medicion.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_85_medicion.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -370,7 +370,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_30_altura.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_30_altura.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -390,7 +390,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd4_30.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd4_30.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -410,7 +410,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_30_frenos.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_30_frenos.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -430,7 +430,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/shp_100_caucho.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/shp_100_caucho.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -450,7 +450,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd4_30_bordes.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd4_30_bordes.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -469,7 +469,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w85.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w85.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -490,7 +490,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w85_llantas.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w85_llantas.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -510,7 +510,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd5_w2000_cajas.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd5_w2000_cajas.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -529,7 +529,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/shp_100_sorbetes.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/shp_100_sorbetes.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -548,7 +548,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd4_30_tapas.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd4_30_tapas.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -568,7 +568,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/cd33_85.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/cd33_85.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -588,7 +588,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/shp_100_nivel.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/shp_100_nivel.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
@@ -608,7 +608,7 @@
               <!-- techno SINGLE BLOG -->
               <div class="single_blog mb-4">
                 <div class="single_blog_thumb pb-4">
-                  <a href="blog-details.html"><img src="/assets/images/optex-fa/shp_100_direccion.jpg" width="348" height="258" alt="" /></a>
+                  <a href="javascript:;"><img src="/assets/images/optex-fa/shp_100_direccion.jpg" width="348" height="258" alt="" /></a>
                 </div>
                 <div class="single_blog_content pl-4 pr-4">
                   <div class="techno_blog_meta">
