@@ -102,7 +102,7 @@
                 <div class="techno_flipbox_inner">
                   <div class="techno_flipbox_icon">
                     <div class="icon">
-                      <i class="flaticon-code"></i>
+                      <i class="fa fa-leaf"></i>
                     </div>
                   </div>
                   <div class="flipbox_title">
@@ -131,7 +131,7 @@
                 <div class="techno_flipbox_inner">
                   <div class="techno_flipbox_icon">
                     <div class="icon">
-                      <i class="flaticon-call"></i>
+                      <i class="fa fa-globe"></i>
                     </div>
                   </div>
                   <div class="flipbox_title">
@@ -160,7 +160,7 @@
                 <div class="techno_flipbox_inner">
                   <div class="techno_flipbox_icon">
                     <div class="icon">
-                      <i class="flaticon-developer"></i>
+                      <i class="fa fa-line-chart"></i>
                     </div>
                   </div>
                   <div class="flipbox_title">

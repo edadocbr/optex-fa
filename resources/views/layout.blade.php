@@ -303,12 +303,12 @@
               <h4 class="widget-title pb-4">Productos</h4>
               <div class="menu-quick-link-container ml-4">
                 <ul id="menu-quick-link" class="menu">
-                  <li><a href="sensor-imagenes-cvs1.html">Sensor de imágenes CVS1</a></li>
-                  <li><a href="sensor-desplazamiento.html">Sensor de desplazamiento</a></li>
-                  <li><a href="sensor-fotoelectrico.html">Sensor fotoeléctrico</a></li>
-                  <li><a href="sensor-laser.html">Sensor láser</a></li>
-                  <li><a href="sensor-fibra.html">Sensor de fibra</a></li>
-                  <li><a href="comparador-sincronizacion.html">Comparador de sincronización</a></li>
+                  <li><a href="{{ route('products.imagenes_cvs1') }}">Sensor de Imagenes CVS 1</a></li>
+                  <li><a href="{{ route('products.desplazamiento') }}">Sensor de Desplazamiento</a></li>
+                  <li><a href="{{ route('products.fotoelectrico') }}">Sensor Fotoeléctrico</a></li>
+                  <li><a href="{{ route('products.laser') }}">Sensor Láser</a></li>
+                  <li><a href="{{ route('products.fibra') }}">Sensor de Fibra</a></li>
+                  <li><a href="{{ route('products.comparador_sincronizacion') }}">Comparador de Sincronización</a></li>
                 </ul>
               </div>
             </div>
@@ -319,10 +319,10 @@
               <h4 class="widget-title pb-4">Aplicaciones</h4>
               <div class="menu-quick-link-container ml-4">
                 <ul id="menu-quick-link" class="menu">
-                  <li><a href="automotriz.html">Automotriz</a></li>
-                  <li><a href="alimentos-y-farmaceutica.html">Alimentos y farmacéutica</a></li>
-                  <li><a href="electronica-y-semiconductores.html">Electrónica y semiconductores</a></li>
-                  <li><a href="logistica-y-transporte.html">Logística y transporte</a></li>
+                  <li><a href="{{ route('aplications.automotriz') }}">Automotriz</a></li>
+                  <li><a href="{{ route('aplications.alimentos_farmaceuticos') }}">Alimentos y farmaceuticos</a></li>
+                  <li><a href="{{ route('aplications.electronica_semiconductores') }}">Electrónica y semiconductores</a></li>
+                  <li><a href="{{ route('aplications.logistica_transporte') }}">Logística y transporte</a></li>
                 </ul>
               </div>
             </div>

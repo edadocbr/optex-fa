@@ -109,7 +109,7 @@
             <div class="single_feature_seven">
               <div class="single_feature_six_seven_icon">
                 <div class="icon">
-                  <i class="flaticon-global-1"></i>
+                  <i class="fa fa-rocket"></i>
                 </div>
               </div>
               <div class="single_feature_seven_content">
@@ -125,7 +125,7 @@
             <div class="single_feature_seven">
               <div class="single_feature_six_seven_icon">
                 <div class="icon">
-                  <i class="flaticon-call"></i>
+                  <i class="fa fa-check-circle-o"></i>
                 </div>
               </div>
               <div class="single_feature_seven_content">
@@ -142,7 +142,7 @@
             <div class="single_feature_seven">
               <div class="single_feature_six_seven_icon">
                 <div class="icon">
-                  <i class="flaticon-developer"></i>
+                  <i class="fa fa-puzzle-piece"></i>
                 </div>
               </div>
               <div class="single_feature_seven_content">
@@ -244,20 +244,19 @@
     <!--==================================================-->
 
     <!--==================================================-->
-    <!----- Start Techno Case Study Area ----->
+    <!----- Start Techno Service Area ----->
     <!--==================================================-->
-    <div class="case_study_area pt-80 pb-45" id="portfolio">
-      <div class="container-fluid">
+    <div class="service_area pt-100 pb-50">
+      <div class="container">
         <div class="row">
           <!-- Start Section Tile -->
           <div class="col-lg-12">
             <div class="section_title text_center mb-50 mt-3">
               <div class="section_sub_title uppercase mb-3">
-                <h6>PRODUCTOS</h6>
+                <h6>Productos</h6>
               </div>
               <div class="section_main_title">
-                <h1>Mire Nuestros Productos</h1>
-                <h1>Para Su Industria</h1>
+                <h1>Mire Nuestros <span>Productos</span></h1>
               </div>
               <div class="em_bar">
                 <div class="em_bar_bg"></div>
@@ -266,109 +265,96 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-12 grid-item">
-            <div class="row">
-              <!--portfolio owl curousel -->
-              <div class="case_study_list owl-carousel curosel-style">
-                <!--Start Single Portfolio -->
-                <div class="col-lg-12 pdn_0">
-                  <div class="single_case_study">
-                    <div class="single_case_study_inner">
-                      <div class="single_case_study_thumb">
-                        <a href="#"><img src="/assets/images/galery/2.jpg" alt="" /></a>
-                      </div>
-                    </div>
-                    <div class="single_case_study_content">
-                      <div class="single_case_study_content_inner">
-                        <h2><a href="#">Sensor de imágenes CVS1</a></h2>
-                      </div>
-                    </div>
-                  </div>
+          <!--Service owl curousel -->
+          <div class="service_list owl-carousel curosel-style">
+            <!-- Start Service Testimonial -->
+            <div class="col-lg-12">
+              <div class="service_style_12">
+                <div class="service_style_12_thumb">
+                  <img src="/assets/images/optex-fa/sensor-cvs-1.jpg" width="348" height="231" alt="" />
                 </div>
-                <!--Start Single Portfolio -->
-                <div class="col-lg-12 pdn_0">
-                  <div class="single_case_study">
-                    <div class="single_case_study_inner">
-                      <div class="single_case_study_thumb">
-                        <a href="#"><img src="/assets/images/galery/1.jpg" alt="" /></a>
-                      </div>
-                    </div>
-                    <div class="single_case_study_content">
-                      <div class="single_case_study_content_inner">
-                        <h2><a href="#">Sensor de desplazamiento</a></h2>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!--Start Single Portfolio -->
-                <div class="col-lg-12 pdn_0">
-                  <div class="single_case_study">
-                    <div class="single_case_study_inner">
-                      <div class="single_case_study_thumb">
-                        <a href="#"><img src="/assets/images/galery/8.jpg" alt="" /></a>
-                      </div>
-                    </div>
-                    <div class="single_case_study_content">
-                      <div class="single_case_study_content_inner">
-                        <h2><a href="#">Sensor fotoelétrico</a></h2>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <!--Start Single Portfolio -->
-                <div class="col-lg-12 pdn_0">
-                  <div class="single_case_study">
-                    <div class="single_case_study_inner">
-                      <div class="single_case_study_thumb">
-                        <a href="#"><img src="/assets/images/galery/3.jpg" alt="" /></a>
-                      </div>
-                    </div>
-                    <div class="single_case_study_content">
-                      <div class="single_case_study_content_inner">
-                        <h2><a href="#">Sensor láser</a></h2>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!--Start Single Portfolio -->
-                <div class="col-lg-12 pdn_0">
-                  <div class="single_case_study">
-                    <div class="single_case_study_inner">
-                      <div class="single_case_study_thumb">
-                        <a href="#"><img src="/assets/images/galery/4.jpg" alt="" /></a>
-                      </div>
-                    </div>
-                    <div class="single_case_study_content">
-                      <div class="single_case_study_content_inner">
-                        <h2><a href="#">Sensor de fibra</a></h2>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!--Start Single Portfolio -->
-                <div class="col-lg-12 pdn_0">
-                  <div class="single_case_study">
-                    <div class="single_case_study_inner">
-                      <div class="single_case_study_thumb">
-                        <a href="#"><img src="/assets/images/galery/5.jpg" alt="" /></a>
-                      </div>
-                    </div>
-                    <div class="single_case_study_content">
-                      <div class="single_case_study_content_inner">
-                        <h2><a href="#">Comparador de sincronización</a></h2>
-                      </div>
-                    </div>
+                <div class="service_style12_content">
+                  <div class="service_style_12_content_inner">
+                    <a href="{{ route('products.imagenes_cvs1') }}">Sensor de Imágenes CVS1</a>
                   </div>
                 </div>
               </div>
             </div>
+            <!-- Start Service Testimonial -->
+            <div class="col-lg-12">
+              <div class="service_style_12">
+                <div class="service_style_12_thumb">
+                  <img src="/assets/images/optex-fa/cd33_50.jpg" width="348" height="231" alt="" />
+                </div>
+                <div class="service_style12_content">
+                  <div class="service_style_12_content_inner">
+                    <a href="{{ route('products.desplazamiento') }}">Sensor de Desplazamiento</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Start Service Testimonial -->
+            <div class="col-lg-12">
+              <div class="service_style_12">
+                <div class="service_style_12_thumb">
+                  <img src="/assets/images/optex-fa/CRD_300CP.jpg" width="348" height="231" alt="" />
+                </div>
+                <div class="service_style12_content">
+                  <div class="service_style_12_content_inner">
+                    <a href="{{ route('products.fotoelectrico') }}">Sensor Fotoeléctrico</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Start Service Testimonial -->
+            <div class="col-lg-12">
+              <div class="service_style_12">
+                <div class="service_style_12_thumb">
+                  <img src="/assets/images/optex-fa/bgs_dl.jpg" width="348" height="231" alt="" />
+                </div>
+                <div class="service_style12_content">
+                  <div class="service_style_12_content_inner">
+                    <a href="{{ route('products.laser') }}">Sensor Láser</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Start Service Testimonial -->
+            <div class="col-lg-12">
+              <div class="service_style_12">
+                <div class="service_style_12_thumb">
+                  <img src="/assets/images/optex-fa/fd_ml02.jpg" width="348" height="231" alt="" />
+                </div>
+                <div class="service_style12_content">
+                  <div class="service_style_12_content_inner">
+                    <a href="{{ route('products.fibra') }}">Sensor de Fibra</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Start Service Testimonial -->
+            <div class="col-lg-12">
+              <div class="service_style_12">
+                <div class="service_style_12_thumb">
+                  <img src="/assets/images/optex-fa/tmc_1.jpg" width="348" height="231" alt="" />
+                </div>
+                <div class="service_style12_content">
+                  <div class="service_style_12_content_inner">
+                    <a href="{{ route('products.comparador_sincronizacion') }}">Comparador de Sincronización</a>
+                  </div>
+                </div>
+              </div>
+            </div>           
+
           </div>
         </div>
       </div>
     </div>
     <!--==================================================-->
-    <!----- End Techno Case Study Area ----->
+    <!----- End Techno Service Area ----->
     <!--==================================================-->
 
     <!--==================================================-->
