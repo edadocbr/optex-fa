@@ -5,91 +5,29 @@
     <!--==================================================-->
     <!----- Start Techno Slider Area ----->
     <!--==================================================-->
-    <div class="slider_list owl-carousel">
-      <div class="slider_area d-flex align-items-center slider11" id="home">
-        <div class="container">
-          <div class="row">
-            <!--Start Single Portfolio -->
-            <div class="col-lg-12">
-              <div class="single_slider">
-                <div class="slider_content">
-                  <div class="slider_text">
-                    <div class="slider_text_inner">
-                      <h1>Custom IT Solutions</h1>
-                      <h1>for Your Business</h1>
-                    </div>
-                    <div class="slider_text_desc pt-4">
-                      <p>
-                        We are 100+ professional software engineers with more
-                        than 10 years of experience in delivering superior
-                        products.
-                      </p>
-                    </div>
-                    <div class="slider_button pt-5">
-                      <div class="button">
-                        <a href="#"
-                          >How IT Work <i class="fa fa-long-arrow-right"></i
-                        ></a>
-                        <a class="active" href="#"
-                          >IT Services <i class="fa fa-long-arrow-right"></i
-                        ></a>
-                      </div>
-                    </div>
-                    <div class="slider-video">
-                      <div class="video-icon">
-                        <a
-                          class="video-vemo-icon venobox vbox-item"
-                          data-vbtype="youtube"
-                          data-autoplay="true"
-                          href="https://youtu.be/BS4TUd7FJSg"
-                          ><i class="fa fa-play"></i
-                        ></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="/assets/images/optex-fa/optex-fa-banner1.jpeg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/assets/images/optex-fa/optex-fa-banner2.jpeg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/assets/images/optex-fa/optex-fa-banner3.jpeg" alt="Third slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/assets/images/optex-fa/optex-fa-banner4.jpeg" alt="Third slide">
         </div>
       </div>
-      <div class="slider_area d-flex align-items-center slider12" id="home">
-        <div class="container">
-          <div class="row">
-            <!--Start Single Portfolio -->
-            <div class="col-lg-12">
-              <div class="single_slider">
-                <div class="slider_content text_center">
-                  <div class="slider_text">
-                    <div class="slider_text_inner">
-                      <h5>Total IT Solution Here</h5>
-                      <h1>A Good Planning is</h1>
-                      <h1>Key Of Success</h1>
-                    </div>
-                    <div class="slider_text_desc pt-4">
-                      <p>
-                        We are 100+ professional software engineers with more
-                        than 10 years of experience in delivering superior
-                        products.
-                      </p>
-                    </div>
-                    <div class="slider_button pt-5">
-                      <div class="button">
-                        <a href="#"
-                          >How IT Work <i class="fa fa-long-arrow-right"></i
-                        ></a>
-                        <a class="active" href="#"
-                          >IT Services <i class="fa fa-long-arrow-right"></i
-                        ></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
     <!--==================================================-->
     <!----- End Techno Slider Area ----->
@@ -170,7 +108,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-12 col-sm-12 col-xs-6">
             <div class="about_thumb">
-              <img src="/assets/images/csrimport/tecnico-CSR-01.jpg" height="600" alt="" />
+              <img src="/assets/images/optex-fa/about-company.jpeg" height="600" alt="" />
             </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
@@ -207,7 +145,7 @@
               </div>
               <div class="singel_about_left_inner pl-4">
                 <div class="button two">
-                  <a href="about.html">Leer Más</a>
+                  <a href="{{ route('pages.about') }}">Leer Más</a>
                 </div>
               </div>
             </div>
@@ -232,7 +170,7 @@
                 <h1>y Automatice Su Industria</h1>
               </div>
               <div class="button three mt-40">
-                <a href="contact.html">Contáctenos<i class="fa fa-long-arrow-right"></i></a>
+                <a href="{{ route('pages.contact') }}">Contáctenos<i class="fa fa-long-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -468,3 +406,9 @@
     <!--==================================================-->
 
 @endsection
+
+@push('scripts')
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+@endpush

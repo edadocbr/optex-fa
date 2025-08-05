@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Techno - IT Solutions Services HTML5 Template</title>
+    <title>Sensor de imagen CVS1, sensores de imagen CVS1, sensores de imagen y color CVS2</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Favicon -->
@@ -11,7 +11,7 @@
       rel="icon"
       type="image/png"
       sizes="56x56"
-      href="/assets/images/fav-icon/icon.png"
+      href="/assets/images/optex-fa/optex-fa-logo-invertido.png"
     />
     <!-- FontAwesome -->
     <link 
@@ -122,11 +122,11 @@
   </head>
   <body>
     <!-- Loder Start-->
-    <div class="loader-wrapper">
+    {{-- <div class="loader-wrapper">
       <div class="loader"></div>
       <div class="loder-section left-section"></div>
       <div class="loder-section right-section"></div>
-    </div>
+    </div> --}}
     <!-- Loder End -->
 
     <!--==================================================-->
@@ -177,11 +177,12 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="menu">
-            <a href="{{ route('pages.home') }}" class="logo"
-              ><img class="down" src="/assets/images/1.png" alt="" />
-              <img class="main_sticky" src="/assets/images/logo.png" alt=""
-            /></a>
-            <ul class="clearfix">
+            <a href="{{ route('pages.home') }}" class="logo pb-3">
+              <img class="down" src="/assets/images/optex-fa/optex-fa-logo.png" width="156" height="60" alt="" />
+              <img class="main_sticky" src="/assets/images/optex-fa/optex-fa-logo-invertido.png" width="156" height="60" alt=""/>
+            </a>
+
+            <ul class="clearfix pt-2">
               <li>
                 <a href="{{ route('pages.home') }}">Inicio</a>
               </li>
@@ -239,7 +240,7 @@
                 <li><a href="{{ route('products.laser') }}">Sensor Láser</a></li>
                 <li><a href="{{ route('products.fibra') }}">Sensor de Fibra</a></li>
                 <li><a href="{{ route('products.comparador_sincronizacion') }}">Comparador de Sincronización</a></li>
-                <li><a href="">Otros Productos</a></li>
+                {{-- <li><a href="">Otros Productos</a></li> --}}
               </ul>
             </li>
             <li>
@@ -278,7 +279,7 @@
           <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="widget widgets-company-info">
               <div class="footer-bottom-logo pb-40">
-                <img src="/assets/images/logo.png" alt="" />
+                <img src="/assets/images/optex-fa/optex-fa-logo-invertido.png" width="156" height="60" alt="" />
               </div>
               <div class="company-info-desc">
                 <p>
@@ -360,6 +361,8 @@
     <!--==================================================-->
     <!----- End Techno Footer Middle Area ----->
     <!--==================================================-->
+
+    @stack('scripts')
 
     <!-- jquery js -->
     <script

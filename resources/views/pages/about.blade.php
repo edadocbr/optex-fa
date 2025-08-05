@@ -38,7 +38,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
             <div class="about_thumb">
-              <img src="assets/images/about-2.jpg" alt="" />
+              <img src="/assets/images/optex-fa/about-company.jpeg" alt="" />
             </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
@@ -206,8 +206,7 @@
                 <h1>Solicita una cotización</h1>
               </div>
               <div class="button three mt-40">
-                <a href="#"
-                  >Contáctanos Ahora!<i class="fa fa-long-arrow-right"></i
+                <a href="{{ route('pages.contact') }}">Contáctanos Ahora!<i class="fa fa-long-arrow-right"></i
                 ></a>
               </div>
             </div>

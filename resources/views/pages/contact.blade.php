@@ -94,7 +94,7 @@
   <!--==================================================-->
   <!----- Start Techno Contact Area ----->
   <!--==================================================-->
-  <div class="main_contact_area pt-80 bg_color2 pb-90">
+  {{-- <div class="main_contact_area pt-80 bg_color2 pb-90">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -153,7 +153,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!--==================================================-->
   <!----- End Techno Contact Area ----->
   <!--==================================================-->
