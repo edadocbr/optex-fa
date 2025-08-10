@@ -160,7 +160,7 @@
     <!--==================================================-->
     <!----- Start Techno Call Do Action Area ----->
     <!--==================================================-->
-    <div class="call_do_action pt-85 pb-130 bg_color" style="background-image: url(/assets/images/slider/slider-4.jpg)">
+    <div class="call_do_action background-gray pt-85 pb-130 bg_color" style="background-image: url(/assets/images/optex-fa/officer-member-2.png)">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -177,6 +177,31 @@
         </div>
       </div>
     </div>
+
+    <style>
+      .background-gray {
+          position: relative; /* Importante para limitar el ::before */
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+      }
+
+      .background-gray::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.5); /* Oscuro con 50% de transparencia */
+          z-index: 1;
+      }
+
+      .background-gray .container {
+          position: relative; /* Texto por encima del overlay */
+          z-index: 2;
+      }
+    </style>
     <!--==================================================-->
     <!----- End Techno Call Do Action Area ----->
     <!--==================================================-->
